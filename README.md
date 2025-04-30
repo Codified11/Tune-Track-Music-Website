@@ -30,20 +30,34 @@ The project structure is organized as follows:
 
 ## Preview
 
-##index.html
+## index.html
+<br>
 ![Screenshot 2025-05-01 004405](https://github.com/user-attachments/assets/cba30706-4e5d-4887-9e72-d5e6e09d980a)
 <br/> <br/>
 
-##main.html
+## main.html<br>
 ![Screenshot 2025-05-01 004908](https://github.com/user-attachments/assets/1d1187d8-80fe-4664-b898-0644d6a19bf1)
 <br/> <br/>
 
-##
+## login_form.html<br>
 ![Screenshot 2025-05-01 004503](https://github.com/user-attachments/assets/09c2971b-8594-4d51-8795-31c599c35f15)
+<br/> <br/>
+
+## sign_form.html<br>
 ![Screenshot 2025-05-01 004438](https://github.com/user-attachments/assets/a20359f6-5eac-4c6d-a5c1-a13e3b0e4e67)
+<br/> <br/>
+
+## home.html<br>
 ![Screenshot 2025-05-01 004313](https://github.com/user-attachments/assets/31dca576-84f0-4806-9cbd-02cf2beaad3c)
+<br/> <br/>
+
+## about.html<br>
 ![Screenshot 2025-05-01 004547](https://github.com/user-attachments/assets/36602ad1-6453-4c05-b021-de5d30756c38)
+<br/> <br/>
+
+## support.html<br>
 ![Screenshot 2025-05-01 004622](https://github.com/user-attachments/assets/ef95ec14-6f5a-4fd7-bc52-a822b500b7da)
+<br/> <br/>
 
 
 <br>
@@ -68,7 +82,7 @@ The project structure is organized as follows:
    ```
    git clone https://github.com/your-username/Tune-Track-Music-Website.git
    ```
-2. **Open in Browser**: Open the `index.html` file in your preferred web browser to launch the Spotify Clone.
+2. **Open in Browser**: Open the `index.html` file in your preferred web browser to launch the Tune Track- Music Website.
 
 
 

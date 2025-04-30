@@ -29,8 +29,16 @@ The project structure is organized as follows:
 - **User-Friendly Interface**: The interface is designed to be user-friendly, making it easy for beginners to navigate and enjoy the music.
 
 ## Preview
+
+##index.html
 ![Screenshot 2025-05-01 004405](https://github.com/user-attachments/assets/cba30706-4e5d-4887-9e72-d5e6e09d980a)
+<br/> <br/>
+
+##main.html
 ![Screenshot 2025-05-01 004908](https://github.com/user-attachments/assets/1d1187d8-80fe-4664-b898-0644d6a19bf1)
+<br/> <br/>
+
+##
 ![Screenshot 2025-05-01 004503](https://github.com/user-attachments/assets/09c2971b-8594-4d51-8795-31c599c35f15)
 ![Screenshot 2025-05-01 004438](https://github.com/user-attachments/assets/a20359f6-5eac-4c6d-a5c1-a13e3b0e4e67)
 ![Screenshot 2025-05-01 004313](https://github.com/user-attachments/assets/31dca576-84f0-4806-9cbd-02cf2beaad3c)

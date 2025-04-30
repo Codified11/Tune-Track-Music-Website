@@ -1,0 +1,1 @@
+<b> Welcome to the Tune Track-Music Website project! This is a beginner-friendly web development project aimed at creating a Music Website using HTML, CSS, and JavaScript. The application showcases the top 10 best songs of Arijit Singh, utilizing the audio in the JavaScript code to enable music playback.</b>
